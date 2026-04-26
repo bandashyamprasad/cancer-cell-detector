@@ -10,13 +10,13 @@ It was originally developed to support a friend's thesis work in cancer research
 - Automatic cancer cell detection and highlighting
 - Region-based scoring using density analysis (pigmented cells, white spaces, muscle tissue, etc.)
 - Easy-to-use command-line or script interface
-- Built with Python (OpenCV / scikit-image / etc. — update with your actual libraries)
+- Built with Python (Vibecoding with Claude, ChatGPT)
 
 ## Purpose
 Designed as a helpful research tool for analyzing microscopic or histopathology images. Not intended for clinical diagnosis.
 
 ## Getting Started
-(Instructions coming soon — add installation, usage, example images, etc.)
-
+Few Input files provided, you can use those to test and add your own files.
 ## License
-MIT License (or choose your preferred open-source license)
+MIT License 
+Image credits to actual Image Owner, Priyanka, my dear friend.

@@ -18,5 +18,4 @@ Designed as a helpful research tool for analyzing microscopic or histopathology 
 ## Getting Started
 Few Input files provided, you can use those to test and add your own files.
 ## License
-MIT License 
 Image credits to actual Image Owner, Priyanka, my dear friend.

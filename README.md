@@ -1,2 +1,22 @@
-# cancer-cell-detector
-A Python tool for detecting and highlighting cancer cells in medical/histopathology images. It scans images, identifies regions of interest, and assigns density-based scores for pigmented cells, white spaces, muscle tissues, and other features. Built to assist with thesis research in cancer image analysis.
+# Cancer Cells Detector
+
+**A Python-based image analysis tool for cancer cell detection and region scoring in histopathology images.**
+
+This project locates cancer cells in medical images, highlights them for easy visualization, and provides quantitative scores based on the density of pigmented cells, white spaces, muscle tissues, and other tissue components.
+
+It was originally developed to support a friend's thesis work in cancer research / digital pathology.
+
+## Features
+- Automatic cancer cell detection and highlighting
+- Region-based scoring using density analysis (pigmented cells, white spaces, muscle tissue, etc.)
+- Easy-to-use command-line or script interface
+- Built with Python (OpenCV / scikit-image / etc. — update with your actual libraries)
+
+## Purpose
+Designed as a helpful research tool for analyzing microscopic or histopathology images. Not intended for clinical diagnosis.
+
+## Getting Started
+(Instructions coming soon — add installation, usage, example images, etc.)
+
+## License
+MIT License (or choose your preferred open-source license)
